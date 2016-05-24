@@ -4,5 +4,5 @@ Turminha legal
 main(){
 printf("Olá seus trouxas!");
 printf("Já não gosto");
-prifntf("quem a thais ama?")
+printf("quem a thais ama?")
 }
