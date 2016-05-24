@@ -1,7 +1,8 @@
 # INF3AM
 Turminha legal
 #include <stdio.h>
-int main(){
+main(){
 printf("Olá seus trouxas!");
 printf("Já não gosto");
+prifntf("quem a thais ama?")
 }
